@@ -15,9 +15,6 @@ subprojects {
         toolchain.languageVersion.set(JavaLanguageVersion.of(17))
     }
 
-    group = "me.luizotavio.minecraft"
-    version = "0.0.1-SNAPSHOT"
-
     repositories {
         mavenCentral()
     }
